@@ -12,7 +12,7 @@
 
 <a href="#kimhor-title"><img src="https://github-readme-stats.vercel.app/api?username=kimhorP&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=8b949e" alt="kimhorP github stats" align="right" /></a>
 
-- :seedling: &nbsp;I'm currently working on **Khmer language processing**
+- :seedling: &nbsp;I'm currently working as **Data & Analytics**.
 - :speech_balloon: &nbsp;I like to talk about **LLMs**, **modeling**, **new tech**, **AI engineering**, and **startups**
 - :book: &nbsp;Learn more about my projects on my **[website]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
