@@ -1,18 +1,14 @@
 <h1 align="left" id="kimhor-title">:wave: Hello there! I'm Kimhor Phoeurn</h1>
 
 <p align="left">
-  <a href="https://github.com/kimhorP/kimhorP"><img src="https://komarev.com/ghpvc/?username=kimhorP" alt="page views" /></a>
   <a href="https://user-badge.committers.top/cambodia/kimhorP"><img src="https://user-badge.committers.top/cambodia/kimhorP.svg" alt="committers.top badge" /></a>
   <a href="https://kimhorp.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fkimhorp.github.io%2Fportfolio%2F"></a>
   <a href="https://www.linkedin.com/in/kimhor-phoeurn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kimhor--phoeurn-blue?logo=linkedin&logoColor=white"></a>
   <a href="https://huggingface.co/k1mhor"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-k1mhor-yellow?logo=huggingface&logoColor=white"></a>
   <a href="https://t.me/kimhorP"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@kimhorP-26A5E4?logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/kimhorP?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kimhorP?style=flat&logo=github"></a>
 </p>
 
 I work across **data and analytics** and **AI engineering**, turning messy data into models, pipelines, and dashboards, and taking them from prototype to production. These days I'm focused on **LLMs**, **modeling**, and **AI engineering**, and I'm always happy to talk about new tech and startups. You can explore my projects on my **[website]**, or connect with me on **[LinkedIn]** and **[Telegram]**.
-
-<br>
 
 <h2 align="left" id="kimhor-tech">Favorite Tech</h2>
 
