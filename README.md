@@ -117,6 +117,6 @@
 
 <!-- links -->
 
-[website]: https://phoeurnkimhor.vercel.app "Phoeurn Kimhor Website"
+[website]: https://kimhorp.github.io/portfolio/ "Phoeurn Kimhor Website"
 [linkedin]: https://www.linkedin.com/in/kimhor-phoeurn "Kimhor Phoeurn LinkedIn"
 [telegram]: https://t.me/kimhorP "Phoeurn Kimhor on Telegram"
