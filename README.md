@@ -1,22 +1,16 @@
 <h1 align="left" id="kimhor-title">:wave: Hello there! I'm Kimhor Phoeurn</h1>
-<h3 align="left">I do Data Scientist &amp; AI Engineer things</h3>
 
 <p align="left">
   <a href="https://github.com/kimhorP/kimhorP"><img src="https://komarev.com/ghpvc/?username=kimhorP" alt="page views" /></a>
-  <a href="https://phoeurnkimhor.vercel.app"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fphoeurnkimhor.vercel.app"></a>
+  <a href="https://user-badge.committers.top/cambodia/kimhorP"><img src="https://user-badge.committers.top/cambodia/kimhorP.svg" alt="committers.top badge" /></a>
+  <a href="https://kimhorp.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fkimhorp.github.io%2Fportfolio%2F"></a>
   <a href="https://www.linkedin.com/in/kimhor-phoeurn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kimhor--phoeurn-blue?logo=linkedin&logoColor=white"></a>
   <a href="https://huggingface.co/k1mhor"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-k1mhor-yellow?logo=huggingface&logoColor=white"></a>
   <a href="https://t.me/kimhorP"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@kimhorP-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://github.com/kimhorP?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kimhorP?style=flat&logo=github"></a>
 </p>
 
-<a href="#kimhor-title"><img src="https://github-readme-stats.vercel.app/api?username=kimhorP&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=8b949e" alt="kimhorP github stats" align="right" /></a>
-
-- :seedling: &nbsp;I'm currently working as **Data & Analytics**.
-- :speech_balloon: &nbsp;I like to talk about **LLMs**, **modeling**, **new tech**, **AI engineering**, and **startups**
-- :book: &nbsp;Learn more about my projects on my **[website]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :mailbox: &nbsp;Reach me on **[Telegram]**
+I work across **data and analytics** and **AI engineering**, turning messy data into models, pipelines, and dashboards, and taking them from prototype to production. These days I'm focused on **LLMs**, **modeling**, and **AI engineering**, and I'm always happy to talk about new tech and startups. You can explore my projects on my **[website]**, or connect with me on **[LinkedIn]** and **[Telegram]**.
 
 <br>
 
